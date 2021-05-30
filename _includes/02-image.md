@@ -1,1 +1,1 @@
-![Uploading My pic.jpg…]()
+![My Picture](Uploading My pic.jpg…)
