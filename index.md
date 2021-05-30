@@ -15,6 +15,10 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
+LIST OF HOLY PLACES
+Haridwar
+Rameshwaram
+Kedarnath
 
 <br>
 
